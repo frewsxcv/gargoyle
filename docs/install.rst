@@ -44,7 +44,7 @@ Nexus Frontend
 --------------
 
 While Gargoyle can be used without a frontend, we highly recommend using `Nexus
-<https://github.com/YPlan/nexus-yplan>`_.
+<https://github.com/YPlan/nexus>`_.
 
 Nexus will automatically detect Gargoyle's ``NexusModule``, assuming its autodiscovery is on. If not, you will need to
 register the module by hand:
